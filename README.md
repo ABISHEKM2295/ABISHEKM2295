@@ -57,17 +57,16 @@ I enjoy solving real-world problems through clean code and modern technologies.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABISHEKM2295&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ABISHEKM2295&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABISHEKM2295&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABISHEKM2295&layout=compact&theme=tokyonight"/>
 
 </p>
 
----
 
 # 📈 GitHub Activity Graph
 
